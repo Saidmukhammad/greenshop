@@ -2,7 +2,7 @@ import Container from "../common/Container"
 import logo from "../../assets/img/logo.png"
 import loop from "../../assets/img/loop.png"
 import cart from "../../assets/img/cart.png"
-import logout from '../../assets/img/logout.png'
+import logout from '../../assets/img/Logout.png'
 import { NavLink, Link } from "react-router-dom"
 import { useState } from "react"
 import AuthModal from "../modal/AuthModal"
