@@ -1,6 +1,6 @@
 import TextInput from "./Inputs/TextInput";
-import SelectInput from "./inputs/SelectInput";
-import PhoneInput from "./inputs/PhoneInput";
+import SelectInput from "./Inputs/SelectInput";
+import PhoneInput from "./Inputs/PhoneInput";
 
 const BillingAddressForm = () => {
   return (
